@@ -1,2 +1,2 @@
 # javascript-alogorithms
-Algorithms in javascript
+Algorithms and Data-structures written in javascript
